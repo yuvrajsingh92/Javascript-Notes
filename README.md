@@ -92,8 +92,8 @@ This is a personal learning repo, but suggestions are welcome! 😊
 
 ## 📬 Contact
 
-* 👤 Name: Your Name
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 👤 Name: Yuvraj Singh
+* 📧 Email: ayuvraj929@gmail.com
 
 ---
 
