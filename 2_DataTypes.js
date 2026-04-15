@@ -130,3 +130,12 @@
 
 // 0 false "" null undefined NaN document.all --> false
 // remainding all will converted --> true
+
+
+// let prediction=true+false
+// console.log(prediction); // 1
+
+// let quirks=null+1
+// console.log(quirks); // 1
+
+
