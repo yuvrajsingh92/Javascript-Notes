@@ -59,7 +59,7 @@
 // }
 // arrow()
 
-// Rest and spread 
+// Rest  
 
 // if we have to many arguments like 1,2,3,4,5,6,7,8,9,10 
 // so we have to create the number of parameters to match arguments, 
